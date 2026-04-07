@@ -175,31 +175,7 @@ Whether 'tis nobler in the mind to suffer...
 * Attention Is All You Need (Vaswani et al., 2017)
 * nanoGPT by Andrej Karpathy
 
----
 
-# 💼 Why This Project Matters
 
-This project demonstrates:
 
-* Strong understanding of transformer internals
-* Ability to implement deep learning models from scratch
-* Practical experience with sequence modeling
-
-Relevant for:
-
-* AI Engineering roles
-* LLM Engineering internships
-* Deep Learning positions
-
----
-
-# 🧑‍💻 Author
-
-[Your Name]
-
----
-
-# ⭐ Note
-
-This project is built for **educational purposes** to understand how modern LLMs work at a low level.
 
